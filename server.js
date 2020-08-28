@@ -1,0 +1,1 @@
+console.log("HadesGod using node js on docker")
